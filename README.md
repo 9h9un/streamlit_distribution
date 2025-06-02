@@ -1,6 +1,6 @@
 # streamlit_distribution
 
-📊 회귀분석을 이용한 당뇨병 예측 프로젝트
+# 📊 회귀분석을 이용한 당뇨병 예측 프로젝트
 
 🔗 [프로젝트 바로가기](https://appdistribution-kmux58esnfdwpmkymqtj4r.streamlit.app)
 
@@ -12,7 +12,7 @@
 
 
 
-🏥 지역별 의료기관 현황 수집, 분석 및 시각화
+# 🏥 지역별 의료기관 현황 수집, 분석 및 시각화
 
 🔗 [프로젝트 바로가기](https://appdistribution-8hxhekazndn4kdzy2rnvvt.streamlit.app)
 
