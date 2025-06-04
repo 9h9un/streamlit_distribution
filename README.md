@@ -14,7 +14,7 @@
 
 # 🏥 지역별 의료기관 현황 수집, 분석 및 시각화
 
-🔗 [프로젝트 바로가기](https://appdistribution-8hxhekazndn4kdzy2rnvvt.streamlit.app)
+🔗 [프로젝트 바로가기](https://streamlit-distribution-1.onrender.com/)
 
 🗂️ 의료기관 데이터 수집
 
