@@ -9,3 +9,7 @@ xgboost
 imbalanced-learn
 folium
 streamlit-folium
+
+scikit-learn==1.2.2
+imbalanced-learn==0.10.1
+streamlit==1.35.0
