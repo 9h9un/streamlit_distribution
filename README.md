@@ -2,7 +2,7 @@
 
 # 📊 회귀분석을 이용한 당뇨병 예측 프로젝트
 
-🔗 [프로젝트 바로가기](https://appdistribution-kmux58esnfdwpmkymqtj4r.streamlit.app)
+🔗 [프로젝트 바로가기](https://appdistribution-uxm89xafkrvj7cavez45e8.streamlit.app/)
 
 🔍 당뇨병 예측 모델
 
